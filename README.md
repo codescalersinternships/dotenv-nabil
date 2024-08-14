@@ -86,3 +86,7 @@ myEnv, err := godotenv.Unmarshal(content)
 ```
 
 ## Testing
+
+```shell
+make test
+```
